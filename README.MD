@@ -1,4 +1,5 @@
-Projet personnel de cryptographie
+**Projet personnel de cryptographie**
+
 Permet de chiffrer, déchiffrer, cryptanalyser différents textes selon plusieurs algorithmes connus tels que : 
 - RailFence ou dent de scie. Possibilité de spécifier le nombre de "palissades". Possibilité de bruteforcer si le nombre de palissades est inconnue.
 - Possibilité d'analyser un texte fréquentiellement et de retourner un histogramme des fréquences de chaque lettre
